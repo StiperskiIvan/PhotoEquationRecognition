@@ -31,6 +31,7 @@ To have a a trained model in a reasonable time the amount of data was minimised 
 
 The most important metric was test accuracy, which was around 80%, the results also showed that some classes like div, 2, -, 7 had the score of about 70% accuracy 
 
-Input image was a tensor of size (1, 100, 100, 3)
-
-![Image of a network](/Photo/model.png)
+Input image is a tensor of size (1, 100, 100, 3)
+<p align="center">
+  <img src="https://github.com/StiperskiIvan/PhotoEquationRecognition/blob/main/Photo/model.png">
+</p>
